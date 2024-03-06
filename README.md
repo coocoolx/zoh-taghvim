@@ -8,9 +8,7 @@ Android Persian Calendar [![CircleCI](https://circleci.com/gh/ebraminio/DroidPer
 Download
 -----------------------------
 <ul>
- 
     <li> <a href="http://cafebazaar.ir/app/com.taghvim.zho" >Bazaar</a> </li>
-   
 </ul>
 License
 -----------------------------
