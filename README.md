@@ -5,7 +5,13 @@ Android Persian Calendar [![CircleCI](https://circleci.com/gh/ebraminio/DroidPer
 برای دریافت و نصب بر برگهٔ releases در بالای صفحه کلیک کنید.</div>
 
 
-
+Download
+-----------------------------
+<ul>
+ 
+    <li> <a href="http://cafebazaar.ir/app/com.taghvim.zho" >Bazaar</a> </li>
+   
+</ul>
 License
 -----------------------------
 Copyright (C) 2012-2018  ebrahim@gnu.org
